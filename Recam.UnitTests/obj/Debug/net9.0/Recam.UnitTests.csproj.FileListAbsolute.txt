@@ -215,3 +215,4 @@
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.UnitTests/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.UnitTests/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.UnitTests/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.UnitTests/obj/Debug/net9.0/Recam.UnitTests.sourcelink.json

@@ -79,13 +79,11 @@
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/bin/Debug/net9.0/System.Composition.TypedParts.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/bin/Debug/net9.0/System.Drawing.Common.dll
-/Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/bin/Debug/net9.0/System.Formats.Asn1.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/bin/Debug/net9.0/System.Memory.Data.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/bin/Debug/net9.0/System.Runtime.Caching.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/bin/Debug/net9.0/System.Security.Permissions.dll
-/Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/bin/Debug/net9.0/System.Text.Json.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/bin/Debug/net9.0/System.Windows.Extensions.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/bin/Debug/net9.0/ZstdSharp.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
@@ -206,3 +204,4 @@
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/bin/Debug/net9.0/Azure.Storage.Blobs.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/bin/Debug/net9.0/Azure.Storage.Common.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/bin/Debug/net9.0/System.IO.Hashing.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Api/obj/Debug/net9.0/Recam.Api.sourcelink.json

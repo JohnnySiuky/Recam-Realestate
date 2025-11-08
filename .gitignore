@@ -1,28 +1,25 @@
-bin/
-obj/
-*.user
-*.suo
-*.userprefs
-*.cache
-*.log
-.idea/
-.vscode/
+# OS / IDE
 .DS_Store
-TestResults/
-*.db
-*.sqlite
-# IDE
 .idea/
 .vs/
-*.DotSettings
-*.DotSettings.user
+*.DotSettings*
+*.user
 
-# OS
-.DS_Store
+# Build outputs
+**/bin/
+**/obj/
+**/publish/
+**/Debug/
+**/Release/
 
-# Build
-bin/
-obj/
+# Test outputs & coverage
+**/TestResults/
+**/coverage*/
+Recam.UnitTests/coveragereport*/
+Recam.UnitTests/coveragereport-impl*/
+Recam.UnitTests/coveragereport-impl-only*/
+Recam.UnitTests/coveragereport-svc-repo*/
 
-# Rider/VS cache
-**/.ionide/
+# Web artifacts (如有前端打包产物)
+**/wwwroot/dist/
+**/wwwroot/*.min.*

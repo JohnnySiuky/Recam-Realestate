@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Recam.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80cf1248850d117a91bccca6c0cd71fd0a201c08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d1529d7aaf3a8868d7f9fb63d515052e783cf85")]
 [assembly: System.Reflection.AssemblyProductAttribute("Recam.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Recam.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

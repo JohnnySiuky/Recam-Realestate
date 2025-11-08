@@ -10,3 +10,4 @@
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Common/obj/Debug/net9.0/refint/Recam.Common.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Common/obj/Debug/net9.0/Recam.Common.pdb
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Common/obj/Debug/net9.0/ref/Recam.Common.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Common/obj/Debug/net9.0/Recam.Common.sourcelink.json

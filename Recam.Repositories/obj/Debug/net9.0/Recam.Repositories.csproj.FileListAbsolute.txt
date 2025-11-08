@@ -17,3 +17,4 @@
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Repositories/obj/Debug/net9.0/refint/Recam.Repositories.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Repositories/obj/Debug/net9.0/Recam.Repositories.pdb
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Repositories/obj/Debug/net9.0/ref/Recam.Repositories.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Repositories/obj/Debug/net9.0/Recam.Repositories.sourcelink.json

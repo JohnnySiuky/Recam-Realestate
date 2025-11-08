@@ -15,3 +15,4 @@
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/obj/Debug/net9.0/Recam.DataAccess.pdb
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/obj/Debug/net9.0/Recam.DataAccess.genruntimeconfig.cache
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/obj/Debug/net9.0/ref/Recam.DataAccess.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/obj/Debug/net9.0/Recam.DataAccess.sourcelink.json

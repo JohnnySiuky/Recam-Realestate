@@ -12,3 +12,4 @@
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/obj/Debug/net9.0/Recam.Models.pdb
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/obj/Debug/net9.0/Recam.Models.genruntimeconfig.cache
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/obj/Debug/net9.0/ref/Recam.Models.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/obj/Debug/net9.0/Recam.Models.sourcelink.json

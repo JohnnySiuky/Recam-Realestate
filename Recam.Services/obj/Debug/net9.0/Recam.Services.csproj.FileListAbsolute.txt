@@ -19,3 +19,4 @@
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Services/obj/Debug/net9.0/refint/Recam.Services.dll
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Services/obj/Debug/net9.0/Recam.Services.pdb
 /Users/johnnysiu/Desktop/testrider/Recam/Recam.Services/obj/Debug/net9.0/ref/Recam.Services.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Services/obj/Debug/net9.0/Recam.Services.sourcelink.json
