@@ -1,0 +1,17 @@
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/bin/Release/net9.0/Recam.DataAccess.deps.json
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/bin/Release/net9.0/Recam.DataAccess.runtimeconfig.json
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/bin/Release/net9.0/Recam.DataAccess.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/bin/Release/net9.0/Recam.DataAccess.pdb
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/bin/Release/net9.0/Recam.Models.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/bin/Release/net9.0/Recam.Models.pdb
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/obj/Release/net9.0/Recam.DataAccess.csproj.AssemblyReference.cache
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/obj/Release/net9.0/Recam.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/obj/Release/net9.0/Recam.DataAccess.AssemblyInfoInputs.cache
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/obj/Release/net9.0/Recam.DataAccess.AssemblyInfo.cs
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/obj/Release/net9.0/Recam.DataAccess.csproj.CoreCompileInputs.cache
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/obj/Release/net9.0/Recam.Da.F54D14AC.Up2Date
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/obj/Release/net9.0/Recam.DataAccess.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/obj/Release/net9.0/refint/Recam.DataAccess.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/obj/Release/net9.0/Recam.DataAccess.pdb
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/obj/Release/net9.0/Recam.DataAccess.genruntimeconfig.cache
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.DataAccess/obj/Release/net9.0/ref/Recam.DataAccess.dll

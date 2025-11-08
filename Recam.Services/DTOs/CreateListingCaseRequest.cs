@@ -1,0 +1,22 @@
+using Recam.Models.Enums;
+
+namespace Recam.Services.DTOs;
+
+public record CreateListingCaseRequest(
+    string Title,
+    string? Description,
+    string Street,
+    string City,
+    string State,
+    int PostalCode,
+    PropertyType PropertyType,
+    SaleCategory SaleCategory,
+    int Bedrooms,
+    int Bathrooms,
+    int Garages,
+    decimal? FloorArea,
+    decimal? Price,
+    decimal? Latitude,
+    decimal? Longitude
+    
+    );

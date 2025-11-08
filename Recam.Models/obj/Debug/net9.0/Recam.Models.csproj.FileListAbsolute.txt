@@ -1,0 +1,14 @@
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/bin/Debug/net9.0/Recam.Models.deps.json
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/bin/Debug/net9.0/Recam.Models.runtimeconfig.json
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/bin/Debug/net9.0/Recam.Models.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/bin/Debug/net9.0/Recam.Models.pdb
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/obj/Debug/net9.0/Recam.Models.csproj.AssemblyReference.cache
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/obj/Debug/net9.0/Recam.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/obj/Debug/net9.0/Recam.Models.AssemblyInfoInputs.cache
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/obj/Debug/net9.0/Recam.Models.AssemblyInfo.cs
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/obj/Debug/net9.0/Recam.Models.csproj.CoreCompileInputs.cache
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/obj/Debug/net9.0/Recam.Models.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/obj/Debug/net9.0/refint/Recam.Models.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/obj/Debug/net9.0/Recam.Models.pdb
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/obj/Debug/net9.0/Recam.Models.genruntimeconfig.cache
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Models/obj/Debug/net9.0/ref/Recam.Models.dll

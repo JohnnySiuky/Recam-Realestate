@@ -1,0 +1,143 @@
+Summary
+  Generated on: 4/11/2025 - 4:40:26 pm
+  Coverage date: 4/11/2025 - 4:37:15 pm
+  Parser: Cobertura
+  Assemblies: 5
+  Classes: 113
+  Files: 118
+  Line coverage: 3.7%
+  Covered lines: 301
+  Uncovered lines: 7739
+  Coverable lines: 8040
+  Total lines: 10134
+  Branch coverage: 11.5% (54 of 469)
+  Covered branches: 54
+  Total branches: 469
+  Method coverage: 15.5% (83 of 535)
+  Full method coverage: 15.1% (81 of 535)
+  Covered methods: 83
+  Fully covered methods: 81
+  Total methods: 535
+
+Recam.Common                                                                   4.8%
+  EmailAttachment                                                                0%
+  EmailMessage                                                                   0%
+  Recam.Common.Auth.Implementation.JwtTokenService                               0%
+  Recam.Common.Auth.JwtSettings                                                  0%
+  Recam.Common.Email.EmailSettings                                               0%
+  Recam.Common.Email.SmtpSettings                                                0%
+  Recam.Common.Exceptions.BadRequestException                                  100%
+  Recam.Common.Exceptions.ConflictException                                    100%
+  Recam.Common.Exceptions.DomainException                                      100%
+  Recam.Common.Exceptions.ForbiddenException                                   100%
+  Recam.Common.Exceptions.Middlewares.ExceptionMiddleware                        0%
+  Recam.Common.Exceptions.NotFoundException                                    100%
+  Recam.Common.Exceptions.UnauthorizedException                                  0%
+  Recam.Common.Exceptions.ValidationException                                  100%
+  Recam.Common.Extensions.PublicListingOptions                                 100%
+  Recam.Common.Filters.ApiValidationFilter                                       0%
+  Recam.Common.Models.ApiError                                                   0%
+  Recam.Common.Models.ApiResponse<T>                                             0%
+  Recam.Common.Models.PagedResult<T>                                             0%
+  Recam.Common.Mongo.MongoSettings                                               0%
+  Recam.Common.Storage.AzureBlobStorageOptions                                   0%
+
+Recam.DataAccess                                                                 0%
+  Recam.DataAccess.Factory.RecamDbContextFactory                                 0%
+  Recam.DataAccess.Migrations.Add_ListingCase_PublicUrl                          0%
+  Recam.DataAccess.Migrations.Add_SelectedMedia                                  0%
+  Recam.DataAccess.Migrations.Add_SelectedMedia2                                 0%
+  Recam.DataAccess.Migrations.AddCaseHistoryAndTweaks                            0%
+  Recam.DataAccess.Migrations.AddListingCase_CoverImageUrl                       0%
+  Recam.DataAccess.Migrations.InitialCreate                                      0%
+  Recam.DataAccess.Migrations.Initialseed                                        0%
+  Recam.DataAccess.Migrations.RecamDbContextModelSnapshot                        0%
+  Recam.DataAccess.RecamDbContext                                                0%
+
+Recam.Models                                                                  30.1%
+  Recam.Models.Entities.Agent                                                    0%
+  Recam.Models.Entities.AgentListingCase                                         0%
+  Recam.Models.Entities.AgentPhotographyCompany                                  0%
+  Recam.Models.Entities.ApplicationUser                                          0%
+  Recam.Models.Entities.CaseContact                                              0%
+  Recam.Models.Entities.CaseHistory                                              0%
+  Recam.Models.Entities.ListingCase                                           96.1%
+  Recam.Models.Entities.MediaAsset                                               0%
+  Recam.Models.Entities.PhotographyCompany                                       0%
+  Recam.Models.Entities.SelectedMedia                                            0%
+
+Recam.Repositories                                                               0%
+  Recam.Respostitories.Inplementations.AgentRepository                           0%
+  Recam.Respostitories.Inplementations.ListingCaseRepository                     0%
+  Recam.Respostitories.Inplementations.MediaAssetRepository                      0%
+  Recam.Respostitories.Inplementations.MediaRepository                           0%
+  Recam.Respostitories.Inplementations.PhotographyCompanyRepository              0%
+  Recam.Respostitories.Inplementations.SelectedMediaRepository                   0%
+  Recam.Respostitories.Inplementations.SqlCaseHistoryRepository                  0%
+
+Recam.Services                                                                  16%
+  CaseContactDto                                                                 0%
+  Recam.Services.DTOs.AddAgentByEmailRequest                                     0%
+  Recam.Services.DTOs.AddAgentRequest                                            0%
+  Recam.Services.DTOs.AddAgentResponse                                           0%
+  Recam.Services.DTOs.AddCaseContactRequest                                      0%
+  Recam.Services.DTOs.AgentListItemDto                                           0%
+  Recam.Services.DTOs.AgentSummaryDto                                            0%
+  Recam.Services.DTOs.ChangeListingStatusRequest                                 0%
+  Recam.Services.DTOs.ChangeListingStatusResponse                              100%
+  Recam.Services.DTOs.ChangePasswordRequest                                      0%
+  Recam.Services.DTOs.CreateAgentRequest                                         0%
+  Recam.Services.DTOs.CreateAgentResponse                                        0%
+  Recam.Services.DTOs.CreateListingCaseRequest                                 100%
+  Recam.Services.DTOs.FinalSelectionResponse                                     0%
+  Recam.Services.DTOs.GetListingCasesQuery                                       0%
+  Recam.Services.DTOs.ListingCaseDetailDto                                       0%
+  Recam.Services.DTOs.ListingCaseDto                                          14.2%
+  Recam.Services.DTOs.ListingMediaGroupDto                                       0%
+  Recam.Services.DTOs.ListingMediaResponse                                       0%
+  Recam.Services.DTOs.LoginRequest                                               0%
+  Recam.Services.DTOs.MediaGroupDto                                              0%
+  Recam.Services.DTOs.MediaItemDto                                               0%
+  Recam.Services.DTOs.PagedResult<T>                                             0%
+  Recam.Services.DTOs.PhotographyCompanyListItemDto                              0%
+  Recam.Services.DTOs.PublishListingResponse                                    75%
+  Recam.Services.DTOs.RegisterPhotographyCompanyRequest                          0%
+  Recam.Services.DTOs.SelectedMediaItemDto                                       0%
+  Recam.Services.DTOs.SetCoverImageRequest                                       0%
+  Recam.Services.DTOs.SetCoverImageResponse                                      0%
+  Recam.Services.DTOs.UpdateListingCaseRequest                                 100%
+  Recam.Services.DTOs.UpdateSelectedMediaRequest                                 0%
+  Recam.Services.DTOs.UploadMediaAssetsResponse                                  0%
+  Recam.Services.DTOs.UploadMediaItemDto                                         0%
+  Recam.Services.DTOs.UploadResult                                               0%
+  Recam.Services.DTOs.UserMeDto                                                  0%
+  Recam.Services.Email.AgentAdminService                                         0%
+  Recam.Services.Email.AgentQueryService                                         0%
+  Recam.Services.Email.AzureBlobStorageService                                   0%
+  Recam.Services.Email.DefaultUploadPolicy                                       0%
+  Recam.Services.Email.FinalSelectionService                                     0%
+  Recam.Services.Email.IdentityUserService                                       0%
+  Recam.Services.Email.ListingCaseService                                     39.7%
+  Recam.Services.Email.MailKitEmailSender                                        0%
+  Recam.Services.Email.MediaAssetService                                         0%
+  Recam.Services.Email.MediaService                                              0%
+  Recam.Services.Email.MediaUploadService                                        0%
+  Recam.Services.Email.PhotographyCompanyService                                 0%
+  Recam.Services.Email.SqlCaseHistoryService                                     0%
+  Recam.Services.Email.UserInfoService                                           0%
+  Recam.Services.Logging.AuthAuditLog                                            0%
+  Recam.Services.Logging.Implementation.ListingAuditLogService                   0%
+  Recam.Services.Logging.Implementation.MongoAuditService                        0%
+  Recam.Services.Logging.Implementation.MongoMediaSelectionLogService            0%
+  Recam.Services.Logging.Implementation.NoopAuditService                         0%
+  Recam.Services.Logging.Implementation.NoopListingAuditLogService               0%
+  Recam.Services.Logging.Implementation.NoopMediaSelectionLogService             0%
+  Recam.Services.Logging.ListingPublishLog                                     100%
+  Recam.Services.Logging.MediaSelectionAuditLog                                  0%
+  Recam.Services.Logging.MongoAuditOptions                                       0%
+  Recam.Services.Validators.AddCaseContactRequestValidator                       0%
+  Recam.Services.Validators.Auth.LoginRequestValidator                           0%
+  Recam.Services.Validators.Auth.RegisterPhotographyCompanyRequestValidator      0%
+  Recam.Services.Validators.ChangePasswordRequestValidator                       0%
+  Recam.Services.Validators.Listings.CreateListingCaseRequestValidator           0%
+  Recam.Services.Validators.Listings.UpdateListingCaseRequestValidator           0%

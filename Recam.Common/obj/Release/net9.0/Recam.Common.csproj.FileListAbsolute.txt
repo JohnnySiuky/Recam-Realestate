@@ -1,0 +1,12 @@
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Common/bin/Release/net9.0/Recam.Common.deps.json
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Common/bin/Release/net9.0/Recam.Common.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Common/bin/Release/net9.0/Recam.Common.pdb
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Common/obj/Release/net9.0/Recam.Common.csproj.AssemblyReference.cache
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Common/obj/Release/net9.0/Recam.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Common/obj/Release/net9.0/Recam.Common.AssemblyInfoInputs.cache
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Common/obj/Release/net9.0/Recam.Common.AssemblyInfo.cs
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Common/obj/Release/net9.0/Recam.Common.csproj.CoreCompileInputs.cache
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Common/obj/Release/net9.0/Recam.Common.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Common/obj/Release/net9.0/refint/Recam.Common.dll
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Common/obj/Release/net9.0/Recam.Common.pdb
+/Users/johnnysiu/Desktop/testrider/Recam/Recam.Common/obj/Release/net9.0/ref/Recam.Common.dll
