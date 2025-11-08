@@ -11,3 +11,18 @@ obj/
 TestResults/
 *.db
 *.sqlite
+# IDE
+.idea/
+.vs/
+*.DotSettings
+*.DotSettings.user
+
+# OS
+.DS_Store
+
+# Build
+bin/
+obj/
+
+# Rider/VS cache
+**/.ionide/
