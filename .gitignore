@@ -1,0 +1,13 @@
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.cache
+*.log
+.idea/
+.vscode/
+.DS_Store
+TestResults/
+*.db
+*.sqlite
